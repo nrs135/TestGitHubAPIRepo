@@ -1,4 +1,5 @@
 test file
 a change
 another change
+third change
 
